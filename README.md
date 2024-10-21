@@ -1,7 +1,6 @@
 # ML-From-Scratch
 <br>
-In this Repo I am going to Implement Different Machine Learning from scratch
-Will be Updating it Regularly
+In this Repo I am going to Implement Different Machine Learning from scratch..Will be Updating it Regularly
 
 <br>
 <br>
