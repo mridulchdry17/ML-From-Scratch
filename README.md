@@ -5,6 +5,7 @@ Will be Updating it Regularly
 
 <br>
 <br>
+List of Completed Algorithms 
 <ul>
   <li>Gradient Descent</li>
   <li>Linear Regression</li>
