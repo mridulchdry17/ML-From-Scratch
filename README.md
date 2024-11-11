@@ -9,3 +9,12 @@ List of Completed Algorithms
   <li>Gradient Descent</li>
   <li>Linear Regression</li>
 </ul>
+
+
+<br>
+<br>
+List of Completed Models 
+<ul>
+  <li>LeNet-5</li>
+
+</ul>
