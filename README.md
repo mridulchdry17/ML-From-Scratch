@@ -16,5 +16,6 @@ List of Completed Algorithms
 List of Completed Models 
 <ul>
   <li>LeNet-5</li>
+  <li>VGG-16</li>
 
 </ul>
